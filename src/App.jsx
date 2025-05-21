@@ -1,7 +1,7 @@
 import React from "react";
 import { Suspense } from "react";
 import { Routes, Route } from "react-router-dom";
-const Dashboard = React.lazy(() => import("./pages/Dashboard"))
+const Dashboard = React.lazy(() => import("./Pages/Dashboard"))
 const Orders = React.lazy(() => import("./pages/Orders"))
 const Customer = React.lazy(() => import("./pages/Customer"))
 const Error400 = React.lazy(() => import("./pages/Error400"))
