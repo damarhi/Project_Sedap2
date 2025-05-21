@@ -1,0 +1,42 @@
+[
+    {
+      "kode_produk": "k001",
+      "nama_produk": "Sate Madura",
+      "harga": "Rp. 20000",
+      "stok": 100,
+      "gambar" :" https://img-global.cpcdn.com/recipes/a6ca9f36b02b089b/1200x630cq70/photo.jpg"
+    },
+    {
+      "kode_produk": "k002",
+      "nama_produk": "Ayam Bakar",
+      "harga": "Rp. 20000",
+      "stok": 100,
+      "gambar" : "https://awsimages.detik.net.id/community/media/visual/2023/02/06/1385476906_169.jpeg?w=600&q=90"
+      
+      
+    },
+    {
+      "kode_produk": "k003",
+      "nama_produk": "Sop Iga",
+      "harga": "Rp. 40000",
+      "stok": 100,
+      "gambar" : "https://i.ytimg.com/vi/wpO2qn_D_nY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD5VBEGpauuK7LcRPpjLmfO1pqXTg"
+    },
+    {
+      "kode_produk": "k004",
+      "nama_produk": "Ayam geprek",
+      "harga": "Rp. 20000",
+      "stok": 100,
+      "gambar" :"https://st3.depositphotos.com/34780080/37029/i/450/depositphotos_370297034-stock-photo-ayam-geprek-indonesian-deep-fried.jpg"
+      
+    },
+    {
+      "kode_produk": "k005",
+      "nama_produk": "Ikan Bakar",
+      "harga": "Rp. 20000",
+      "stok": 100,
+      "gambar" : "https://cdn.rri.co.id/berita/Aceh_Singkil/o/1721784231810-ikan-bakar_782296-9/gp9gnbrvulmu9sz.jpeg"
+    }
+    
+    
+]

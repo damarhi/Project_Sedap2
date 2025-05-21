@@ -1,0 +1,212 @@
+[
+    {
+      "OrderID": "ORD001",
+      "CustomerName": "Estiawan Wibisono",
+      "Status": "Cancelled",
+      "TotalPrice": 64569,
+      "OrderDate": "2025-04-02"
+    },
+    {
+      "OrderID": "ORD002",
+      "CustomerName": "Drs. Rafi Tamba",
+      "Status": "Pending",
+      "TotalPrice": 54469,
+      "OrderDate": "2025-04-19"
+    },
+    {
+      "OrderID": "ORD003",
+      "CustomerName": "Cindy Wahyudin",
+      "Status": "Cancelled",
+      "TotalPrice": 146942,
+      "OrderDate": "2025-04-09"
+    },
+    {
+      "OrderID": "ORD004",
+      "CustomerName": "Hartana Anggriawan, M.Kom.",
+      "Status": "Cancelled",
+      "TotalPrice": 63993,
+      "OrderDate": "2025-03-31"
+    },
+    {
+      "OrderID": "ORD005",
+      "CustomerName": "Jelita Oktaviani",
+      "Status": "Completed",
+      "TotalPrice": 96424,
+      "OrderDate": "2025-04-03"
+    },
+    {
+      "OrderID": "ORD006",
+      "CustomerName": "Puti Ghaliyati Namaga, S.Pt",
+      "Status": "Completed",
+      "TotalPrice": 89109,
+      "OrderDate": "2025-04-21"
+    },
+    {
+      "OrderID": "ORD007",
+      "CustomerName": "Dt. Cahyadi Halim, S.IP",
+      "Status": "Completed",
+      "TotalPrice": 152721,
+      "OrderDate": "2025-03-30"
+    },
+    {
+      "OrderID": "ORD008",
+      "CustomerName": "Dagel Wibisono",
+      "Status": "Pending",
+      "TotalPrice": 133013,
+      "OrderDate": "2025-04-05"
+    },
+    {
+      "OrderID": "ORD009",
+      "CustomerName": "Latika Hidayat",
+      "Status": "Completed",
+      "TotalPrice": 85218,
+      "OrderDate": "2025-03-18"
+    },
+    {
+      "OrderID": "ORD010",
+      "CustomerName": "Drs. Jatmiko Pradipta, S.H.",
+      "Status": "Completed",
+      "TotalPrice": 179457,
+      "OrderDate": "2025-02-24"
+    },
+    {
+      "OrderID": "ORD011",
+      "CustomerName": "Unjani Siregar",
+      "Status": "Completed",
+      "TotalPrice": 80669,
+      "OrderDate": "2025-04-16"
+    },
+    {
+      "OrderID": "ORD012",
+      "CustomerName": "Tari Maryati",
+      "Status": "Completed",
+      "TotalPrice": 190110,
+      "OrderDate": "2025-04-10"
+    },
+    {
+      "OrderID": "ORD013",
+      "CustomerName": "drg. Rina Hidayat",
+      "Status": "Completed",
+      "TotalPrice": 104108,
+      "OrderDate": "2025-03-17"
+    },
+    {
+      "OrderID": "ORD014",
+      "CustomerName": "Jamal Pratama",
+      "Status": "Completed",
+      "TotalPrice": 173639,
+      "OrderDate": "2025-04-05"
+    },
+    {
+      "OrderID": "ORD015",
+      "CustomerName": "Tgk. Ratna Kusmawati, M.Pd",
+      "Status": "Cancelled",
+      "TotalPrice": 195064,
+      "OrderDate": "2025-03-03"
+    },
+    {
+      "OrderID": "ORD016",
+      "CustomerName": "Bakda Irawan",
+      "Status": "Pending",
+      "TotalPrice": 158631,
+      "OrderDate": "2025-03-29"
+    },
+    {
+      "OrderID": "ORD017",
+      "CustomerName": "Balidin Hidayat, S.IP",
+      "Status": "Pending",
+      "TotalPrice": 144116,
+      "OrderDate": "2025-04-17"
+    },
+    {
+      "OrderID": "ORD018",
+      "CustomerName": "Drajat Astuti",
+      "Status": "Completed",
+      "TotalPrice": 249405,
+      "OrderDate": "2025-04-13"
+    },
+    {
+      "OrderID": "ORD019",
+      "CustomerName": "Muhammad Puspasari",
+      "Status": "Cancelled",
+      "TotalPrice": 149340,
+      "OrderDate": "2025-04-01"
+    },
+    {
+      "OrderID": "ORD020",
+      "CustomerName": "Leo Rahmawati",
+      "Status": "Cancelled",
+      "TotalPrice": 159052,
+      "OrderDate": "2025-03-31"
+    },
+    {
+      "OrderID": "ORD021",
+      "CustomerName": "drg. Maimunah Hutapea",
+      "Status": "Cancelled",
+      "TotalPrice": 185126,
+      "OrderDate": "2025-02-22"
+    },
+    {
+      "OrderID": "ORD022",
+      "CustomerName": "T. Edi Nugroho",
+      "Status": "Cancelled",
+      "TotalPrice": 222661,
+      "OrderDate": "2025-03-18"
+    },
+    {
+      "OrderID": "ORD023",
+      "CustomerName": "Dr. Iriana Usamah, S.IP",
+      "Status": "Completed",
+      "TotalPrice": 176441,
+      "OrderDate": "2025-02-24"
+    },
+    {
+      "OrderID": "ORD024",
+      "CustomerName": "Halim Agustina, S.T.",
+      "Status": "Pending",
+      "TotalPrice": 158842,
+      "OrderDate": "2025-04-05"
+    },
+    {
+      "OrderID": "ORD025",
+      "CustomerName": "Hj. Kayla Wijaya, S.Ked",
+      "Status": "Pending",
+      "TotalPrice": 110237,
+      "OrderDate": "2025-03-31"
+    },
+    {
+      "OrderID": "ORD026",
+      "CustomerName": "Cengkir Widiastuti",
+      "Status": "Completed",
+      "TotalPrice": 73854,
+      "OrderDate": "2025-02-26"
+    },
+    {
+      "OrderID": "ORD027",
+      "CustomerName": "Hasna Damanik, S.Pt",
+      "Status": "Pending",
+      "TotalPrice": 92201,
+      "OrderDate": "2025-03-05"
+    },
+    {
+      "OrderID": "ORD028",
+      "CustomerName": "Drs. Intan Siregar",
+      "Status": "Pending",
+      "TotalPrice": 147173,
+      "OrderDate": "2025-03-30"
+    },
+    {
+      "OrderID": "ORD029",
+      "CustomerName": "R. Betania Handayani, S.Psi",
+      "Status": "Completed",
+      "TotalPrice": 158167,
+      "OrderDate": "2025-04-16"
+    },
+    {
+      "OrderID": "ORD030",
+      "CustomerName": "Saka Hutasoit",
+      "Status": "Completed",
+      "TotalPrice": 239575,
+      "OrderDate": "2025-03-14"
+    }
+  ]
