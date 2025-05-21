@@ -43,6 +43,12 @@ export default function ListMenu() {
           </NavLink>
         </li>
         <li>
+          <NavLink id="menu-3" to="/Home" className={menuClass}>
+            <IoMdPeople className="mr-4 text-xl" />
+            Guest Home
+          </NavLink>
+        </li>
+        <li>
           <NavLink id="menu-4" to="*" className={menuClass}>
           <TbError404 className="mr-4 text-xl" />
             Error 404
