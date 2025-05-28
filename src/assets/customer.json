@@ -1,0 +1,212 @@
+[
+    {
+      "CustomerID": "CUST001",
+      "CustomerName": "Estiawan Wibisono",
+      "Email": "jagapati81@yahoo.com",
+      "Phone": "+62-77-420-5557",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST002",
+      "CustomerName": "Drs. Rafi Tamba",
+      "Email": "fandriani@hotmail.com",
+      "Phone": "+62 (044) 011 8497",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST003",
+      "CustomerName": "Cindy Wahyudin",
+      "Email": "jdamanik@yahoo.com",
+      "Phone": "0860284444",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST004",
+      "CustomerName": "Hartana Anggriawan, M.Kom.",
+      "Email": "emaryadi@pt.or.id",
+      "Phone": "+62 (59) 840-9375",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST005",
+      "CustomerName": "Jelita Oktaviani",
+      "Email": "vinoyulianti@yahoo.com",
+      "Phone": "+62-61-102-4052",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST006",
+      "CustomerName": "Puti Ghaliyati Namaga, S.Pt",
+      "Email": "maimunahharyanto@yahoo.com",
+      "Phone": "+62 (0588) 527 1137",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST007",
+      "CustomerName": "Dt. Cahyadi Halim, S.IP",
+      "Email": "manullangpurwanto@pd.mil.id",
+      "Phone": "(085) 388 4029",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST008",
+      "CustomerName": "Dagel Wibisono",
+      "Email": "pangeranardianto@cv.com",
+      "Phone": "+62 (175) 207-6323",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST009",
+      "CustomerName": "Latika Hidayat",
+      "Email": "cnasyiah@cv.mil",
+      "Phone": "(013) 763 9662",
+      "Loyalty": "Gold"
+    },
+    {
+      "CustomerID": "CUST010",
+      "CustomerName": "Drs. Jatmiko Pradipta, S.H.",
+      "Email": "salimahhariyah@gmail.com",
+      "Phone": "+62 (53) 219-3841",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST011",
+      "CustomerName": "Unjani Siregar",
+      "Email": "qwidiastuti@pt.biz.id",
+      "Phone": "(0050) 524 7299",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST012",
+      "CustomerName": "Tari Maryati",
+      "Email": "sabrinajanuar@pd.co.id",
+      "Phone": "(0401) 765-5489",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST013",
+      "CustomerName": "drg. Rina Hidayat",
+      "Email": "maulanakamidin@gmail.com",
+      "Phone": "+62 (0633) 787-5816",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST014",
+      "CustomerName": "Jamal Pratama",
+      "Email": "cakrabuanapangestu@yahoo.com",
+      "Phone": "0826144304",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST015",
+      "CustomerName": "Tgk. Ratna Kusmawati, M.Pd",
+      "Email": "rwidodo@perum.net.id",
+      "Phone": "+62 (006) 268-7223",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST016",
+      "CustomerName": "Bakda Irawan",
+      "Email": "tiara93@hotmail.com",
+      "Phone": "+62 (036) 738 5080",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST017",
+      "CustomerName": "Balidin Hidayat, S.IP",
+      "Email": "aslijanjanuar@pd.co.id",
+      "Phone": "+62-0833-957-8376",
+      "Loyalty": "Gold"
+    },
+    {
+      "CustomerID": "CUST018",
+      "CustomerName": "Drajat Astuti",
+      "Email": "rachel93@yahoo.com",
+      "Phone": "(0514) 299-7297",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST019",
+      "CustomerName": "Muhammad Puspasari",
+      "Email": "ksusanti@yahoo.com",
+      "Phone": "+62 (24) 946-4420",
+      "Loyalty": "Gold"
+    },
+    {
+      "CustomerID": "CUST020",
+      "CustomerName": "Leo Rahmawati",
+      "Email": "flestari@perum.go.id",
+      "Phone": "+62 (728) 297-2488",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST021",
+      "CustomerName": "drg. Maimunah Hutapea",
+      "Email": "malik79@perum.int",
+      "Phone": "0837325144",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST022",
+      "CustomerName": "T. Edi Nugroho",
+      "Email": "wijayaprayoga@pt.net",
+      "Phone": "(0440) 799-6222",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST023",
+      "CustomerName": "Dr. Iriana Usamah, S.IP",
+      "Email": "esiregar@perum.my.id",
+      "Phone": "(0902) 346-8809",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST024",
+      "CustomerName": "Halim Agustina, S.T.",
+      "Email": "panca67@gmail.com",
+      "Phone": "0819212271",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST025",
+      "CustomerName": "Hj. Kayla Wijaya, S.Ked",
+      "Email": "pratamamanah@ud.go.id",
+      "Phone": "+62 (18) 733 3153",
+      "Loyalty": "Gold"
+    },
+    {
+      "CustomerID": "CUST026",
+      "CustomerName": "Cengkir Widiastuti",
+      "Email": "heruprasasta@gmail.com",
+      "Phone": "(0231) 948 9828",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST027",
+      "CustomerName": "Hasna Damanik, S.Pt",
+      "Email": "lhutasoit@yahoo.com",
+      "Phone": "(0094) 282-7636",
+      "Loyalty": "Silver"
+    },
+    {
+      "CustomerID": "CUST028",
+      "CustomerName": "Drs. Intan Siregar",
+      "Email": "arsipatra32@yahoo.com",
+      "Phone": "+62-323-933-0847",
+      "Loyalty": "Gold"
+    },
+    {
+      "CustomerID": "CUST029",
+      "CustomerName": "R. Betania Handayani, S.Psi",
+      "Email": "suciprastuti@gmail.com",
+      "Phone": "+62-082-103-6901",
+      "Loyalty": "Bronze"
+    },
+    {
+      "CustomerID": "CUST030",
+      "CustomerName": "Saka Hutasoit",
+      "Email": "ifa14@pd.mil",
+      "Phone": "(0823) 154-4273",
+      "Loyalty": "Bronze"
+    }
+  ]
