@@ -6,6 +6,8 @@ import { NavLink } from "react-router-dom";
 import { IoMdPeople } from "react-icons/io";
 import { MdShoppingCart } from "react-icons/md";
 import { MdDashboard } from "react-icons/md";
+import { MdFastfood } from "react-icons/md";
+
 
 export default function ListMenu() {
   const menuClass = ({ isActive }) =>
@@ -43,10 +45,20 @@ export default function ListMenu() {
           </NavLink>
         </li>
         <li>
-          <NavLink id="menu-3" to="/Home" className={menuClass}>
+          <NavLink id="menu-9" to="/Home" className={menuClass}>
             <IoMdPeople className="mr-4 text-xl" />
             Guest Home
           </NavLink>
+        </li>
+        <li>
+        <NavLink
+                id="menu-8"
+                to="/products"
+                className={menuClass}
+            >
+                <MdFastfood className="mr-4 text-xl" />
+                Products
+        </NavLink>
         </li>
         <li>
           <NavLink id="menu-4" to="*" className={menuClass}>
@@ -72,6 +84,7 @@ export default function ListMenu() {
             Error 403
           </NavLink>
         </li>
+
       </ul>
     </div>
   );

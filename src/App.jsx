@@ -3,6 +3,7 @@ import { Suspense } from "react";
 import { Routes, Route } from "react-router-dom";
 const Dashboard = React.lazy(() => import("./Pages/Dashboard"))
 const Orders = React.lazy(() => import("./Pages/Orders"))
+const Products = React.lazy(() => import("./Pages/Products"))
 const Customer = React.lazy(() => import("./Pages/Customer"))
 const Error400 = React.lazy(() => import("./Pages/Error400"))
 const Error401 = React.lazy(() => import("./Pages/Error401"))
@@ -17,9 +18,11 @@ const GuestLayout = React.lazy(() => import("./Layouts/GuestLayout"))
 const ErrorLayout = React.lazy(() => import("./Layouts/ErrorLayout"))
 const Login = React.lazy(() => import("./Pages/auth/Login"))
 const Loading = React.lazy(() => import("./components/Loading"))
+ const ProductDetail = React.lazy(() => import("./Pages/ProductDetail"))
 import Home from "./Pages/Guest/Home";
 import Cekproduk from "./Pages/Guest/Cekproduk";
 import "./assets/tailwind.css";
+
 
 function App() {
   return (
@@ -31,7 +34,8 @@ function App() {
                 <Route path="/Orders" element={<Orders />} />
                 <Route path="/Customer" element={<Customer />} />
                 <Route path="/ListUser" element={<ListUser />} />
-                
+                <Route path="products" element={<Products />} />
+                <Route path="/products/:id" element={<ProductDetail />} /> 
               </Route>
               <Route element={<AuthLayout/>}>
                 <Route path="/login" element={<Login />} />
