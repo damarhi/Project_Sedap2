@@ -18,7 +18,8 @@ const GuestLayout = React.lazy(() => import("./Layouts/GuestLayout"))
 const ErrorLayout = React.lazy(() => import("./Layouts/ErrorLayout"))
 const Login = React.lazy(() => import("./Pages/auth/Login"))
 const Loading = React.lazy(() => import("./components/Loading"))
- const ProductDetail = React.lazy(() => import("./Pages/ProductDetail"))
+const ProductDetail = React.lazy(() => import("./Pages/ProductDetail"))
+const Notes = React.lazy(() => import("./Pages/Notes"))
 import Home from "./Pages/Guest/Home";
 import Cekproduk from "./Pages/Guest/Cekproduk";
 import "./assets/tailwind.css";
@@ -34,7 +35,8 @@ function App() {
                 <Route path="/Orders" element={<Orders />} />
                 <Route path="/Customer" element={<Customer />} />
                 <Route path="/ListUser" element={<ListUser />} />
-                <Route path="products" element={<Products />} />
+                <Route path="/products" element={<Products />} />
+                <Route path="/notes" element={<Notes />} />
                 <Route path="/products/:id" element={<ProductDetail />} /> 
               </Route>
               <Route element={<AuthLayout/>}>

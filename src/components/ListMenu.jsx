@@ -1,13 +1,13 @@
-import { BiMessageError } from "react-icons/bi"; 
-import { TbError404 } from "react-icons/tb"; 
-import { BiError } from "react-icons/bi"; 
-import { BiErrorAlt } from "react-icons/bi"; 
+import { BiNote } from "react-icons/bi"; 
+import { BiMessageError } from "react-icons/bi";
+import { TbError404 } from "react-icons/tb";
+import { BiError } from "react-icons/bi";
+import { BiErrorAlt } from "react-icons/bi";
 import { NavLink } from "react-router-dom";
 import { IoMdPeople } from "react-icons/io";
 import { MdShoppingCart } from "react-icons/md";
 import { MdDashboard } from "react-icons/md";
 import { MdFastfood } from "react-icons/md";
-
 
 export default function ListMenu() {
   const menuClass = ({ isActive }) =>
@@ -51,18 +51,20 @@ export default function ListMenu() {
           </NavLink>
         </li>
         <li>
-        <NavLink
-                id="menu-8"
-                to="/products"
-                className={menuClass}
-            >
-                <MdFastfood className="mr-4 text-xl" />
-                Products
-        </NavLink>
+          <NavLink id="menu-8" to="/products" className={menuClass}>
+            <MdFastfood className="mr-4 text-xl" />
+            Products
+          </NavLink>
+        </li>
+         <li>
+          <NavLink id="menu-10" to="/notes" className={menuClass}>
+           <BiNote className="mr-4 text-xl"/> 
+            Notes
+          </NavLink>
         </li>
         <li>
           <NavLink id="menu-4" to="*" className={menuClass}>
-          <TbError404 className="mr-4 text-xl" />
+            <TbError404 className="mr-4 text-xl" />
             Error 404
           </NavLink>
         </li>
@@ -74,17 +76,16 @@ export default function ListMenu() {
         </li>
         <li>
           <NavLink id="menu-6" to="/Error401" className={menuClass}>
-          <BiMessageError className="mr-4 text-xl" />
+            <BiMessageError className="mr-4 text-xl" />
             Error 401
           </NavLink>
         </li>
         <li>
           <NavLink id="menu-7" to="/Error403" className={menuClass}>
-          <BiErrorAlt className="mr-4 text-xl" />
+            <BiErrorAlt className="mr-4 text-xl" />
             Error 403
           </NavLink>
         </li>
-
       </ul>
     </div>
   );
